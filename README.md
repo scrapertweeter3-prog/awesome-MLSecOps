@@ -316,6 +316,7 @@ Data Poisoning Attacks](https://arxiv.org/pdf/2006.12557.pdf)
 - 🛡️ [CircleGuardBench: New Standard for Evaluating AI Moderation Models](https://huggingface.co/blog/whitecircle-ai/circleguardbench)
 
 - 📰 [Why AI Agents Leak Sensitive Data (and How to Stop Them)](https://www.pastagi.com/news/ai-agent-data-leakage-prevention/) - Five agent data-leak scenarios with boundary controls and serving-side checks
+
 ## MLOps Infrastructure Vulnerabilities
 
 MLOps infrastructure introduces security risks across notebooks, training pipelines, model registries, artifact formats, cloud services, Kubernetes workloads, and inference endpoints. These resources document vulnerabilities, exploits, and defensive controls affecting the operational ML lifecycle.
